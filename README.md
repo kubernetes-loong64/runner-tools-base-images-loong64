@@ -15,7 +15,7 @@ The upstream base-images project ([gitlab-org/ci-cd/runner-tools/base-images](ht
 | Branch            | Description                                                         |
 |-------------------|---------------------------------------------------------------------|
 | `main`            | Project documentation, license, and shared configuration            |
-| `loong64-v0.0.48` | Patched build for upstream base-images v0.0.48 with loong64 support |
+| `loong64-v0.0.50` | Patched build for upstream base-images v0.0.50 with loong64 support |
 
 New loong64 release branches follow the naming convention `loong64-<upstream-version>`.
 
